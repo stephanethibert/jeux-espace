@@ -1,0 +1,17 @@
+{
+  "manifest": [
+    {"id": "background",  "src": "ressources/images/background.png"},
+    {"id": "projectible",  "src": "ressources/images/projectile.png"},
+    {"id": "menu",  "src": "ressources/images/menu.jpg"},
+    {"id": "trame",  "src": "ressources/sons/trame.mp3"},
+
+
+    {"id": "music",  "src": "ressources/sons/music.mp3"},
+    {"id": "tir",  "src": "ressources/sons/tir.mp3"},
+    {"id": "explotionsons",  "src": "ressources/sons/explosion1.wav"},
+    {"id": "explosion",  "src": "ressources/atlas/explosion.json", "type": "spritesheet" },
+    {"id": "personnage",  "src": "ressources/atlas/personnages.json", "type": "spritesheet" },
+    {"id": "bouclier",  "src": "ressources/atlas/bouclier.json", "type": "spritesheet" },
+    {"id": "ennemi",  "src": "ressources/atlas/ennemi.json", "type": "spritesheet" }
+  ]
+}

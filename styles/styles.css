@@ -1,0 +1,33 @@
+@font-face{
+
+  font-family: 'Pixel';
+  src: url(../ressources/polices/vcr_osd_mono_1.001-webfont.woff2);
+
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+
+  /* Enlèvement de la marge */
+  margin: 0;
+
+  /* Désactivation du défilement */
+  overflow: hidden;
+
+}
+
+canvas {
+  background-color: red;
+}
+#image{
+
+
+  display: block;
+  transform: scale(0.5);
+
+
+
+}

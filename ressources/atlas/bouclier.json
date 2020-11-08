@@ -1,0 +1,30 @@
+{
+
+"images": [
+    "ressources/images/bouclier.png"
+],
+
+"framerate": 20,
+"frames": [
+    [1, 1, 437, 438, 0, -88, -84],
+    [1, 441, 434, 434, 0, -92, -88],
+    [1, 877, 431, 431, 0, -87, -88],
+    [1, 1310, 421, 421, 0, -98, -99],
+    [424, 1310, 413, 414, 0, -96, -104],
+    [434, 877, 401, 401, 0, -100, -108],
+    [437, 441, 384, 385, 0, -121, -105],
+    [440, 1, 373, 372, 0, -115, -112],
+    [815, 1, 348, 348, 0, -124, -123],
+    [823, 351, 337, 339, 0, -144, -143]
+],
+
+"animations": {
+    "bouclier": { "frames": [1, 4, 9, 3, 2, 8, 5, 0, 6, 7] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:17766f1a1daeb5fe4398f3d339d334e4:a73b61aeb2dd93b9299d4a596577a443:056f40beadc1d0e9f4fc3f8bf9e3963b$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}
